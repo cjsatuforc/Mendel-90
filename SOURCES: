@@ -1,0 +1,17 @@
+the bulk of the printed parts are from the stock Mendel90, 
+Y carraige modified to have the 2 center holes for the MK42 bed and 
+hole pattern for bearing blocks rather than bearing holders. 
+Also belt holders are changed out with the one from brusa:
+
+https://www.thingiverse.com/thing:17826
+
+The 2 X ends, but modified to have same rod (smooth&threaded) distance as the stock Mendel90, and X endstop portion removed.
+the whole X axis is rotate 180 degrees arrund Y axis to have X motor on same side as electronics:
+
+https://github.com/prusa3d/Original-Prusa-i3/tree/MK2S
+
+enclosure, only modified to fit bigger build volume:
+
+https://www.thingiverse.com/thing:755654
+
+
