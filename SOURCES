@@ -1,7 +1,10 @@
 the bulk of the printed parts are from the stock Mendel90, 
-Y carraige modified to have the 2 center holes for the MK42 bed and 
+Y carraige modified to have the 2 extra center holes for the MK42 bed and 
 hole pattern for bearing blocks rather than bearing holders. 
-Also belt holders are changed out with the one from brusa:
+Also belt holders are changed out with the one from prusa.
+all wires are run on the up facing side, this is the direct oposite of the org. design,
+but it prevents wires getting stuck and ripped etc.
+a "decent" amount of extra fixing blocks added to make it more stiff and less prone to "singing":
 
 https://www.thingiverse.com/thing:17826
 
@@ -13,5 +16,44 @@ https://github.com/prusa3d/Original-Prusa-i3/tree/MK2S
 enclosure, only modified to fit bigger build volume:
 
 https://www.thingiverse.com/thing:755654
+https://www.thingiverse.com/thing:744868
+
+Z isolators by David Price
+These decouple the whole X carraige from the Z axis, 
+should there be ANY wobble in the threaded rods this will not
+results in ringing or movement  of the nozzle.
+the X axis will just rest on the isolators, but the isolators can move independant
+
+Bed fan duct,
+this concentrates the air more towards cooling of the bed after print is done:
+
+https://www.thingiverse.com/thing:756849
+
+The X carriage comes from here:
+
+https://www.thingiverse.com/thing:607891
+
+mount for e3d v6 in bowden setup comes from here,
+slightly modified thou:
+
+https://www.thingiverse.com/thing:1632847
+
+40mm fan duct and part cooler in one is from here,
+this is by far the most simple one i have found:
+
+https://www.thingiverse.com/thing:2460909
+
+I think i got the bearing blocks from here:
+
+https://www.thingiverse.com/thing:1533880
+
+the x-endstop is from here:
+
+https://www.thingiverse.com/thing:514582
 
 
+
+
+
+i lost the source for the Y idler fork, but it found it on thingiverse
+and there was a link to onshape in description where i modified it slightly
