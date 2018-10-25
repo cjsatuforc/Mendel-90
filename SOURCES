@@ -29,19 +29,13 @@ this concentrates the air more towards cooling of the bed after print is done:
 
 https://www.thingiverse.com/thing:756849
 
-The X carriage comes from here:
+The X carriage comes from here, slightly modified to make sure endstop is hit:
 
-https://www.thingiverse.com/thing:607891
+https://www.thingiverse.com/thing:2514659
 
-mount for e3d v6 in bowden setup comes from here,
-slightly modified thou:
+mount for e3d v6 in bowden setup comes from here:
 
-https://www.thingiverse.com/thing:1632847
-
-40mm fan duct and part cooler in one is from here,
-this is by far the most simple one i have found:
-
-https://www.thingiverse.com/thing:2460909
+https://www.thingiverse.com/thing:2023947
 
 I think i got the bearing blocks from here:
 
@@ -54,10 +48,6 @@ https://www.thingiverse.com/thing:514582
 e3d titan areo mount/brackets:
 
 https://www.thingiverse.com/thing:2566323
-
-
-
-
 
 i lost the source for the Y idler fork, but it found it on thingiverse
 and there was a link to onshape in description where i modified it slightly
